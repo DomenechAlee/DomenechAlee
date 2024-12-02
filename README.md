@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Probando un poco esto. Estudiante en bioestadística.
 <!--
 **DomenechAlee/DomenechAlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
